@@ -2,12 +2,22 @@
     "name": "capybara-light",
     "displayName": "Capybara Light",
     "description": "Another Capybara. Capybara not included.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexChapple/capybara-light"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "light theme",
+        "Acha",
+        "capybara"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +27,6 @@
                 "path": "./themes/Capybara Light-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "images/capybara_light.png"
 }
