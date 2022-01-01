@@ -1,0 +1,21 @@
+{
+    "name": "capybara-light",
+    "displayName": "Capybara Light",
+    "description": "Another Capybara. Capybara not included.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Capybara Light",
+                "uiTheme": "vs",
+                "path": "./themes/Capybara Light-color-theme.json"
+            }
+        ]
+    }
+}
